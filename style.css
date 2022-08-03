@@ -1,3 +1,14 @@
 .container-fluid {
     min-height: 100vh;
 }
+
+.progress {
+    width: 400px;
+    height: 40px;
+
+}
+
+.card{
+    width: 500px;
+}
+
